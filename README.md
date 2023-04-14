@@ -2,8 +2,9 @@
 ## Brief Description Of Project
 I am pleased to announce the successful completion of another Power BI Dashboard Project. The primary objective of this project was to develop a comprehensive dashboard for AtliQ Mart, a hypothetical company, to streamline their supply chain and identify areas for improvement. This dashboard provides an in-depth analysis of various key performance indicators (KPIs) such as On Time Delivery % (OTD %), In Full Delivery % (IFD %), and other metrics, enabling AtliQ Mart to make data-driven decisions and optimize their business processes.
 
-Thanks to @codebasicshub for this project.
+![Final FMCG Project Report Snapshot](https://user-images.githubusercontent.com/94215301/231978074-fcd5ff13-8d54-41b7-8e0e-aa51fb604aab.png)
 
+Thanks to @codebasicshub for this project.
 
 # Project Description
 ## Problem Statement
