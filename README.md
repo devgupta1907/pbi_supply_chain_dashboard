@@ -1,25 +1,12 @@
 
-## Brief Description Of Project
-I am pleased to announce the successful completion of another Power BI Dashboard Project. The primary objective of this project was to develop a comprehensive dashboard for AtliQ Mart, a hypothetical company, to streamline their supply chain and identify areas for improvement. This dashboard provides an in-depth analysis of various key performance indicators (KPIs) such as On Time Delivery % (OTD %), In Full Delivery % (IFD %), and other metrics, enabling AtliQ Mart to make data-driven decisions and optimize their business processes.
+## Supply Chain Dashboard For FMCG Domain
 
-![Final FMCG Project Report Snapshot](https://user-images.githubusercontent.com/94215301/231978074-fcd5ff13-8d54-41b7-8e0e-aa51fb604aab.png)
+I am pleased to announce the successful completion of another Power BI Dashboard Project. The primary objective of this project was to develop a comprehensive dashboard for AtliQ Mart, a hypothetical company, to streamline their supply chain and identify areas for improvement. This dashboard provides an in-depth analysis of various key performance indicators (KPIs) such as On Time Delivery % (OTD %), In Full Delivery % (IFD %), and other metrics, enabling AtliQ Mart to make data-driven decisions and optimize their business processes. Thanks to @codebasicshub for this project.
 
-Thanks to @codebasicshub for this project.
 
-# Project Description
-## Problem Statement
-AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.
+Dashboard Snapshots, PDF version and PBIX file is available in this repository. Feel free to download it, and add your visualizations to it. Don't forget to share it with me.
+LinkedIn, Instagram links are available on my website. Website link at the end !
 
-AtliQ Mart is currently facing a problem where a few key customers did not extend their annual contracts due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. Management wants to fix this issue before expanding to other cities and requested their supply chain analytics team to track the ’On time’ and ‘In Full’ delivery service level for all the customers daily basis so that they can respond swiftly to these issues.
 
-The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘On-time delivery (OT) %’, ‘In-full delivery (IF) %’, and OnTime in full (OTIF) %’ of the customer orders daily basis against the target service level set for each customer.
-
-## Task:  
-You are a data analyst in the supply chain team who joined AtliQ Mart recently. He has been briefed about the the task in the stakeholder business review meeting. Now imagine yourself as Peter Pandey and play the role of the new data analyst who is excited to build this dashboard and perform the following task:
-
-Create the metrics according to the metrics list.
-Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting in comic form.
-Create relevant insights not provided in the metric list/stakeholder meeting.
-
-## Project Link with all resources:
-https://codebasics.io/challenge/codebasics-resume-project-challenge
+- All Necessary Dataset files can be accessed from here : https://codebasics.io/challenge/codebasics-resume-project-challenge
+- Also, have a look at my Portfolio Website : https://devgupta1907.github.io/portfolio/
